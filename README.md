@@ -25,8 +25,6 @@ By Author [Bratislav Trajković](https://www.linkedin.com/in/bratislav-trajkovic
 
 I am learning Laravel (PHP) programming for some time, so I started Laravel Tasks in order to continue learning programming in practice.  
 
-CMS stands for [Content Management System](https://en.wikipedia.org/wiki/Content_management_system).  
-
 If also in the learning phase, this exercise could help you with the similar project.   
 
   
